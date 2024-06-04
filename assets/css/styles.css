@@ -36,6 +36,7 @@ h1 {
 .score-board p {
     padding: 5px;
 }
+/* Player Choices*/
 .player {
     display: flex;
     justify-content: center;
@@ -78,6 +79,7 @@ h1 {
     padding: 10px;
 }
 
+/* Reset */
 .reset-btn {
     font-size: 2em;
     margin-top: 20px;
