@@ -7,18 +7,24 @@
     <link rel="stylesheet" href="assets/css/styles.css">
 </head>
 <body>
-    <div id="container">
+    <div class="container">
         <h1>Rock Paper Scrssors</h1>
-        <div id="score-board">
+        <div class="score-board">
             <p>Wins: <span id="wins">0</span></p>
             <p>Losses: <span id="loss">0</span></p>
             <p>Draw: <span id="draw">0</span></p>   
         </div>
-        <div id="player">
+        <div class="player">
             <button class="choice" data-choice="rock"><i class="fa-regular fa-hand-back-fist"></i></button>
             <button class="choice" data-choice="paper"><i class="fa-regular fa-hand"></i></button>
             <button class="choice" data-choice="scissor"><i class="fa-regular fa-hand-scissors"></i></button>
         </div>
+        <div class="results">
+            <p>You chose: <span class="player-choice"></span></p>
+            <p>Computer chose: <span class="Computer-choice"></span></p>
+            <p>Result: <span class="game-result"></span></p>
+        </div>
+        <button class="reset-btn">Reset Game</button>
     </div>
     <!--Font awesome icon-->
     <script src="https://kit.fontawesome.com/3b20d96fa9.js" crossorigin="anonymous"></script>
