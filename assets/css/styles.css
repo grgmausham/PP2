@@ -15,4 +15,13 @@ body {
     margin: 0;
     padding: 0;
 }
-
+.container {
+    text-align: center;
+    width: 100%;
+    max-width: 500px;
+    padding: 20px;
+    box-sizing: border-box;
+}
+.score-board {
+    margin-bottom: 20px;
+}
