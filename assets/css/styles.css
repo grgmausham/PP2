@@ -25,7 +25,7 @@ body {
 .score-board {
     margin-bottom: 20px;
 }
-.player {
+.choice {
     font-size: 4em;
     width: 90px;
     height: 90px;
@@ -39,4 +39,12 @@ body {
     background-color: #fff;
     transition: transform 0.2s, background-color 0.2s, box-shadow 0.2s;
     box-shadow: 0 5px 7px rgba(0, 0, 0, 0.2);
+}
+.choice:active {
+    transform: scale(0.9);
+}
+.choice:hover {
+    background-color: #cacaca;
+    transform: scale(1.1);
+    box-shadow: 0 7px 9px rgba(0, 0, 0, 0.15)
 }
