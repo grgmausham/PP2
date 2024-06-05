@@ -75,8 +75,9 @@ The landing page is an easy to use page. Minimal information keeping it clear fo
 ![Home Page](assets/images/home.png)
 
 ### Lighthouse testing
-    - Lighthouse Testing, the following shows the results from lighthouse testing the home page.
-![Home Testing](assets/images/lighthouse.png)
+- Lighthouse Testing, the following shows the results from lighthouse testing the home page.
+![Deskyop Testing](assets/images/desktoplighthouse.png)
+![Mobile Testing](assets/images/mobilelighthouse.png)
 
 
 ### Bugs
