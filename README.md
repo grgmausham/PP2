@@ -49,7 +49,7 @@ HTML5, CSS, JavaScript
 
 * [Credits](#credits)
  - Code Institute for project idea.
- - With some help of ChatGPT
+ - With some help of [ChatGPT](https://chatgpt.com/)
  - Icons from [Font Awesome](https://fontawesome.com/)
 
 #### Visitor Goals
